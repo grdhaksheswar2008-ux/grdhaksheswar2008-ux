@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi there! I'm Dhaksheswar
+
+Computer Science Engineering Student
+
+## About Me
+
+- Currently learning C++ and Data Structures & Algorithms
+- Practicing programming and problem-solving
+- Interested in building useful software projects
+- Learning something new every day
+
+## Skills
+
+- **Languages:** C++, C (add when learned)
+- **Tools:** Git, GitHub
+- **Currently Learning:** DSA and problem-solving
+
+## My Goals
+
+- Solve coding problems regularly
+- Build projects using C++
+- Improve my programming skills
+- Contribute to open-source projects
+
+##Connect With Me
+
+- GitHub: [@grdhaksheswar2008-ux](https://github.com/grdhaksheswar2008-ux)
+
+---
+
+Thanks for visiting my profile!
 
 <!--
 **grdhaksheswar2008-ux/grdhaksheswar2008-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
