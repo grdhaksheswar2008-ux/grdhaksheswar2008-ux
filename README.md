@@ -24,7 +24,8 @@ Computer Science Engineering Student
 
 ##Connect With Me
 
-- GitHub: [@grdhaksheswar2008-ux](https://github.com/grdhaksheswar2008-ux)
+-  LinkedIn: [Dhaksheswar G.R.](https://www.linkedin.com/in/dhaksheswar-g-r-a9b063442)
+-  GitHub: [My GitHub Profile](https://github.com/grdhaksheswar2008-ux)
 
 ---
 
